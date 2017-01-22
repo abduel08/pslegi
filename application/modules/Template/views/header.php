@@ -72,6 +72,7 @@
 					<div class="row">
 						<div class="col-md-14 text-center">
 							<h3 class="light white">Pasarnya berbagai hewan.</h3>
+							<h3 class="light white">Versi beta</h3>
 							<h2 class="white typed">Temukan kebutuhan binatang Anda disini.</h2>
 							<span class="typed-cursor">|</span>
 						</div>
