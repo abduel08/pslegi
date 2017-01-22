@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'pslegi',
+	'hostname' => 'mysql.idhostinger.com',
+	'username' => 'u664305166_legi',
+	'password' => 'pasarlegi00',
+	'database' => 'u664305166_legi',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
